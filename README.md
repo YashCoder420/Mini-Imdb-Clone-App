@@ -1,0 +1,3 @@
+# Mini-Imdb-Clone-App![imdb clone app screenshot homepage](https://user-images.githubusercontent.com/128240301/230733031-98e749c4-0136-4e7a-b695-027f94086236.png)
+![imdb clone app screenshot favorite list page](https://user-images.githubusercontent.com/128240301/230733039-fad2cbd2-745f-415b-8ede-1d3d9aeab7ac.png)
+This is a Movie info app made using OMDB API. When users enters the movie title in search box, they will get suggestions and when they click on a movie they will get full info about that movie. Users can also add their favourite movies in the favourites list and view their list by clicking on the favourites button in nav bar.
